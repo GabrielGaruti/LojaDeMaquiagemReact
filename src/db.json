@@ -1,0 +1,28 @@
+[{
+        "id": 1,
+        "nome": "Batom Vermelho",
+        "descrição": "Um batom marcante e unico",
+        "preço": 29.99,
+        "estoque": 79,
+        "img": "https://cdn.discordapp.com/attachments/1000220744309026876/1112700547997368420/pecas-cosmeticas-para-beleza-facial.jpg",
+        "href":"/produto1"
+    },
+    {
+        "id": 2,
+        "nome": "Base cor clara 30g",
+        "descrição": "Uma base de tom claro e leve",
+        "preço": 129.99,
+        "estoque": 22,
+        "img": "https://cdn.discordapp.com/attachments/1000220744309026876/1112700731980513310/creme-de-fundacao-em-garrafa.jpg",
+        "href":"/produto2"
+    },
+    {
+        "id": 3,
+        "nome": "Mascara de cilios",
+        "descrição": "Mascara de cilios contendo 20g com uma das melhores qualidades do mercado",
+        "preço": 449.99,
+        "estoque": 30,
+        "img": "https://cdn.discordapp.com/attachments/1000220744309026876/1112701043961245758/rimel-de-vista-superior-preto-com-fundo-cinza.jpg",
+        "href":"/produto3"
+    }
+]
